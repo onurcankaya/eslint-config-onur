@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-onur",
+  "description": "Eslint and Prettier config I like using",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:onurcankaya/eslint-config-onur.git",
+  "author": "Onur Cankaya",
+  "license": "MIT"
+}
