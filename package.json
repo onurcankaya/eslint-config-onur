@@ -8,5 +8,15 @@
   },
   "repository": "git@github.com:onurcankaya/eslint-config-onur.git",
   "author": "Onur Cankaya",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "peerDependencies": {
+    "eslint": "^6.8.0"
+  }
 }
