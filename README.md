@@ -10,6 +10,5 @@ $ npm install --save-dev eslint-config-onur
 ### yarn 
 ```sh
 $ yarn add --dev eslint-config-onur
-
-
+```
 
