@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-onur",
   "description": "Eslint and Prettier config I like using",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
