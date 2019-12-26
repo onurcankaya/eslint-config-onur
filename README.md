@@ -4,11 +4,20 @@
 
 ### npm
 ```sh
-$ npm install --save-dev eslint-config-onur
+$ npm install --save-dev eslint prettier eslint-config-onur
 ```
 
 ### yarn 
 ```sh
-$ yarn add --dev eslint-config-onur
+$ yarn add --dev eslint prettier eslint-config-onur
 ```
 
+## Configurations
+
+```js
+// .eslintrc.js
+module.exports = {
+  extends: [
+    'eslint-config-onur'
+  ]
+}
