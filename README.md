@@ -14,10 +14,9 @@ $ yarn add --dev eslint prettier eslint-config-onur
 
 ## Configuration
 
-```js
-
 Add the config to your `.eslintrc.js` file
 
+```js
 module.exports = {
   extends: 'eslint-config-onur'
 }
