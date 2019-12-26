@@ -12,12 +12,12 @@ $ npm install --save-dev eslint prettier eslint-config-onur
 $ yarn add --dev eslint prettier eslint-config-onur
 ```
 
-## Configurations
+## Configuration
 
 ```js
-// .eslintrc.js
+
+Add the config to your `.eslintrc.js` file
+
 module.exports = {
-  extends: [
-    'eslint-config-onur'
-  ]
+  extends: 'eslint-config-onur'
 }
