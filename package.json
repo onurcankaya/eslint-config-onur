@@ -3,19 +3,27 @@
   "description": "Eslint and Prettier config I like using",
   "version": "1.2.1",
   "main": "index.js",
+  "author": "Onur Cankaya",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "git@github.com:onurcankaya/eslint-config-onur.git",
-  "author": "Onur Cankaya",
+  "keywords": [
+    "eslint",
+    "prettier",
+    "standard",
+    "react"
+  ],
   "license": "MIT",
   "dependencies": {
+    "babel-eslint": "^10.0.3",
     "eslint-config-prettier": "^6.8.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-standard": "^4.0.1"
   },
   "peerDependencies": {
