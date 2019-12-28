@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-onur",
   "description": "Eslint and Prettier config I like using",
-  "version": "1.3.2"
+  "version": "1.3.3",
   "main": "index.js",
   "author": "Onur Cankaya",
   "scripts": {
