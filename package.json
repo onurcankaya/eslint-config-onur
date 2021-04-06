@@ -4,9 +4,6 @@
   "version": "1.3.4",
   "main": "index.js",
   "author": "Onur Cankaya",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": "git@github.com:onurcankaya/eslint-config-onur.git",
   "keywords": [
     "eslint",

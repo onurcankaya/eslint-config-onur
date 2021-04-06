@@ -32,7 +32,7 @@ module.exports = {
         arrowParens: 'always',
         bracketSpacing: true,
         jsxBracketSameLine: true,
-        printWidth: 100,
+        printWidth: 80,
         semi: false,
         singleQuote: true,
         tabWidth: 2,
